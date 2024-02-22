@@ -76,17 +76,3 @@ flutter build ios
 
 You will find the IPA file in the `build/ios/iphoneos` directory.
 
-## Contributing
-
-If you'd like to contribute to this project, please see the [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc.
-```
